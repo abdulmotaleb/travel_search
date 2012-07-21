@@ -1,5 +1,5 @@
 log/*
 tmp/*
-netbeans/*
+nbproject/*
 database.yml
 
