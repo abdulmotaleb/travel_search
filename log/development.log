@@ -1,0 +1,40 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-07-19 22:02:37 +0530
+
+Mysql2::Error (Unknown database 'travel_search_development'):
+  
+
+Rendered /Users/mac/.rvm/gems/ruby-1.9.2-p320/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Users/mac/.rvm/gems/ruby-1.9.2-p320/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (11.8ms)
+Rendered /Users/mac/.rvm/gems/ruby-1.9.2-p320/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (30.6ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-19 22:02:39 +0530
+
+Mysql2::Error (Unknown database 'travel_search_development'):
+  
+
+Rendered /Users/mac/.rvm/gems/ruby-1.9.2-p320/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+Rendered /Users/mac/.rvm/gems/ruby-1.9.2-p320/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Users/mac/.rvm/gems/ruby-1.9.2-p320/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.4ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-07-19 22:13:19 +0530
+Served asset /rails.png - 200 OK (3ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-19 22:13:21 +0530
+  Processing by Rails::InfoController#properties as HTML
+Rendered inline template (0.3ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-07-21 14:50:44 +0530
+Served asset /rails.png - 200 OK (24ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-07-21 14:50:49 +0530
+  Processing by Rails::InfoController#properties as HTML
+Rendered inline template (17.9ms)
+Completed 200 OK in 52ms (Views: 51.6ms | ActiveRecord: 0.0ms)
