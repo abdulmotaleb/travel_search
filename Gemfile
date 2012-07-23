@@ -20,7 +20,7 @@ gem 'jquery-rails'
 gem 'haml'
 gem 'haml-rails'
 gem 'simple_form'
-
+gem 'devise'
 # Use unicorn as the web server
 # gem 'unicorn'
 
